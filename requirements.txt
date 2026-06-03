@@ -1,0 +1,5 @@
+anthropic
+streamlit
+jinja2
+python-dotenv
+Pillow

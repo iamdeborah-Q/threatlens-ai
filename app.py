@@ -338,3 +338,5 @@ with tab_report:
         st.info(
             "Run the analysis in the Input tab to generate a report."
         )
+        
+        
